@@ -1,0 +1,34 @@
+{
+  "name": "cumple-de-giva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiRizo/CumpleGiva.git"
+  },
+  "keywords": [
+    "CumpleGiva"
+  ],
+  "author": "Linda Rizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiRizo/CumpleGiva/issues"
+  },
+  "homepage": "https://github.com/LiRizo/CumpleGiva#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  },
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "chalk": "^4.1.0",
+    "cli-color": "^2.0.0",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.0",
+    "image-to-ascii": "^3.0.12",
+    "wrap-ansi": "^7.0.0"
+  }
+}

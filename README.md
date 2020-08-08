@@ -43,13 +43,13 @@ Si todavía estas algo perdida te dejo una guía de cómo hacerlo:
 
 Debes abrir el proyecto y en la terminal del visual instalar las librerías a continuación:
 
-[Figlet](https://www.npmjs.com/package/figlet)
+- [Figlet](https://www.npmjs.com/package/figlet)
 
-[Cli-color](https://www.npmjs.com/package/cli-color)
+- [Cli-color](https://www.npmjs.com/package/cli-color)
 
-[Ascii-art](https://www.npmjs.com/package/ascii-art)
+- [Ascii-art](https://www.npmjs.com/package/ascii-art)
 
-[Image-to-ascii](https://www.npmjs.com/package/image-to-ascii#)
+- [Image-to-ascii](https://www.npmjs.com/package/image-to-ascii#)
 
 Para image-to-ascii, si te salen errores al instalar debes hacer unas instalaciones extras, las pistas estan en la instrucciones de instalación... 
 
@@ -59,10 +59,12 @@ Debes buscar la terminal de tu preferencia posicionarte en la carpeta del proyec
 
 •   $ node index.js 
 
-luego
+- Luego
+
 •   $ node giva.js
 
-finalmente
+- Finalmente
+  
 •   $ node gyl.js
 
 
@@ -70,13 +72,13 @@ finalmente
 
 ### tips
 
-[✔](https://es.wikipedia.org/wiki/ASCII)
+[✔] [Saber mas de ascii](https://es.wikipedia.org/wiki/ASCII)
 
-[✔](https://www.asciiart.eu/movies/toy-story)
+[✔] [Diviertete con toy-Story](https://www.asciiart.eu/movies/toy-story)
 
-[✔](https://elcodigoascii.com.ar)
+[✔] [Cosas interesantes](https://elcodigoascii.com.ar)
 
-[✔](https://www.youtube.com/watch?v=NQ5KR5TqUwE)
+[✔] [Guía de uso](https://www.youtube.com/watch?v=NQ5KR5TqUwE)
 
 ***
 Espero que te guste y que te diviertas en hacerlo, te quiero.
